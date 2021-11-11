@@ -2,8 +2,8 @@
 
 Contains 2 files
 
-server.c
 client.c
+server.c
 
 Privilege seperation using fork() call.
 

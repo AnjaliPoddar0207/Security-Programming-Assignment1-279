@@ -8,4 +8,4 @@ server.c
 
 Privilege seperation using fork() call.
 
-Privilege dropping using setuid() call.
+Privilege dropping using setuid() call. 
